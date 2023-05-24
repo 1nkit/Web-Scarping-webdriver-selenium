@@ -1,2 +1,2 @@
 # Web-Scarping
-web scarping on cricbuzz-cricket data by using python.  Unstructure Data convert into structure DataFrame.
+web scarping on  data by using python.  Unstructure Data convert into structure DataFrame.
